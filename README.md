@@ -13,6 +13,6 @@ This repo is an automated set up for vim which includes all the plugins, keys an
 Installation
 ====
 
-git clone https://github.com/atmd83/vim-and-tonic.git
-cd vim-and-tonic
-sh setup.sh
+- git clone https://github.com/atmd83/vim-and-tonic.git;
+- cd vim-and-tonic;
+- sh setup.sh;
